@@ -1,4 +1,4 @@
-# 😄 Calculator App
+# Calculator App
 
 A basic calculator application with a user-friendly interface for performing arithmetic operations. The calculator supports addition, subtraction, multiplication, and division operations.
 
