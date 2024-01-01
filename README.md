@@ -34,7 +34,7 @@ To run the calculator app on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone <https://github.com/ZohraB612/Calculator.git>
+   git clone <repository_url>
 2. Navigate to the project directory
    cd Calculator
 4. Run the calculator app
