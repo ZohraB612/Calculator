@@ -45,4 +45,4 @@ To run the calculator app on your local machine, follow these steps:
    python calculator_app.py
 
 ## Demo
-![Calculator App Demo](./screenshots/calculator.mp4)
+![Calculator App Demo Video](./videos/calculator.mp4)
