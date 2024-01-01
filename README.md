@@ -18,17 +18,17 @@ A basic calculator application with a user-friendly interface for performing ari
 - Python
 - Tkinter library
 
-🤔 Future Improvements
+## 🤔 Future Improvements
 
 The calculator app can be enhanced with additional features:
 - Sound effects for button clicks.
 - Highlighting the input area during and after calculations.
 
-🐛 Known Issues
+## 🐛 Known Issues
 
 - None reported at the moment.
 
-🚦 Running the Calculator
+## 🚦 Running the Calculator
 
 To run the calculator app on your local machine, follow these steps:
 
@@ -39,3 +39,6 @@ To run the calculator app on your local machine, follow these steps:
    cd Calculator
 4. Run the calculator app
    python calculator_app.py
+
+## Demo
+![Calculator App Demo](./screenshots/calculator.mp4)
