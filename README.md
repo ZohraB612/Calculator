@@ -35,9 +35,13 @@ To run the calculator app on your local machine, follow these steps:
 1. Clone the repository to your local machine.
    ```bash
    git clone <repository_url>
+   
 2. Navigate to the project directory
+   ```bash
    cd Calculator
+   
 4. Run the calculator app
+   ```bash
    python calculator_app.py
 
 ## Demo
